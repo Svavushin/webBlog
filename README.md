@@ -1,4 +1,4 @@
 # webBlog
 
-<a class="piska1">Developing ang education Spring <em>Boot website about blog</a> 
+<a class="piska1">Developing Spring <em>jopa</a> 
 
